@@ -4,7 +4,7 @@ Mathematica (MMA) scripts that implement the phonon scattering and transport the
 ## Overview
 The scripts follow closely with the presentation in the paper. Simply execute the "Initialize functions" cell in GB-strain-scattering.nb or GB-strain-scattering_modeling.nb which opens and runs GB-strain-scattering_init.nb. Descriptions of all functions called in GB-strain-scattering.nb or GB-strain-scattering_modeling.nb can be found in GB-strain-scattering_init.nb.
 
-Note, all variabls need to be defined globally, so ensure the Notebook's Default Context is set to "Global`" (Evaulation > Notebook's Default Context > Global`).
+Note, all variabls need to be defined globally which may interfere with other scripts you have running.
 
 ### GB-strain-scattering_init.nb
 Defines constants, functions, and plot formatting. 
