@@ -2,8 +2,10 @@
 Mathematica (MMA) scripts that implement the phonon scattering and transport theory presented in "Phonon diffraction and dimensionality crossover in phonon-interface scattering" by Hanus, Garg, and Snyder (2018). 
 
 ## Overview
-All variabls need to be defined globally, so ensure the Notebook's Default Context is set to "Global`" (Evaulation > Notebook's Default Context > Global`)
 Simply execute the "Initialize functions" cell in GB-strain-scattering.nb or GB-strain-scattering_modeling.nb which opens and runs the GB-strain-scattering_init.nb. Descriptions of all functions called in GB-strain-scattering.nb or GB-strain-scattering_modeling.nb can be found in GB-strain-scattering_init.nb.
+
+Note, all variabls need to be defined globally, so ensure the Notebook's Default Context is set to "Global`" (Evaulation > Notebook's Default Context > Global`).
+
 ### GB-strain-scattering_init.nb
 Defines constants, functions, and plot formatting. 
 
