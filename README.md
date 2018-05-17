@@ -6,6 +6,8 @@ The scripts follow closely with the presentation in the paper. Simply execute th
 
 Note, all variabls need to be defined globally which may interfere with other scripts you have running.
 
+If you do not have Mathematica you can view the scripts in a readable format using the Free Wolfram Player (http://www.wolfram.com/cdf-player/), or simply opening the PDF file.
+
 ### GB-strain-scattering_init.nb
 Defines constants, functions, and plot formatting. 
 

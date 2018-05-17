@@ -3,10 +3,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[         0,          0]
-NotebookDataLength[     81584,       1856]
-NotebookOptionsPosition[     80499,       1820]
-NotebookOutlinePosition[     81165,       1844]
-CellTagsIndexPosition[     81122,       1841]
+NotebookDataLength[     78215,       1771]
+NotebookOptionsPosition[     77130,       1735]
+NotebookOutlinePosition[     77796,       1759]
+CellTagsIndexPosition[     77753,       1756]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -1437,92 +1437,7 @@ Cell[BoxData[
          RowBox[{"2", " ", "s"}]], ")"}], " ", "]"}], 
       RowBox[{"(", 
        RowBox[{"180.", "/", "\[Pi]"}], ")"}]}]}], ";"}], 
-   "\[IndentingNewLine]", "\[IndentingNewLine]", 
-   RowBox[{"(*", 
-    RowBox[{
-    "##", "##", " ", "Grey", " ", "model", " ", "expressions", " ", "##", 
-     "##"}], "*)"}], "\[IndentingNewLine]", "\[IndentingNewLine]", 
-   RowBox[{
-    RowBox[{
-     RowBox[{"\[Tau]TotGrey", "[", 
-      RowBox[{"k_", ",", "T_", ",", "B1_", ",", "B2_"}], "]"}], ":=", 
-     SuperscriptBox[
-      RowBox[{"(", 
-       RowBox[{
-        RowBox[{
-         RowBox[{"vg", "[", "k", "]"}], "n1D"}], "+", 
-        SuperscriptBox[
-         RowBox[{"\[Tau]ppModel", "[", 
-          RowBox[{"k", ",", "T", ",", "C1", ",", "C1"}], "]"}], 
-         RowBox[{"-", "1"}]]}], ")"}], 
-      RowBox[{"-", "1"}]]}], ";"}], "\[IndentingNewLine]", 
-   "\[IndentingNewLine]", 
-   RowBox[{"(*", 
-    RowBox[{
-    "this", " ", "function", " ", "applies", " ", "the", " ", "grey", " ", 
-     RowBox[{"approx", ".", " ", "to"}], " ", "validate", " ", "the", " ", 
-     "discrete", " ", "method", " ", "for", " ", "calcluating", " ", 
-     SubscriptBox["\[Kappa]", "lat"]}], "*)"}], "\[IndentingNewLine]", 
-   RowBox[{
-    RowBox[{"\[Tau]TotGrey\[Theta]\[Phi]Integrate", "[", 
-     RowBox[{"k_", ",", "T_", ",", "n_"}], "]"}], ":=", 
-    RowBox[{"Module", "[", 
-     RowBox[{
-      RowBox[{"{", 
-       RowBox[{
-       "integrand", ",", "\[Theta]", ",", "\[Phi]", ",", "\[CapitalDelta]"}], 
-       "}"}], ",", "\[IndentingNewLine]", 
-      RowBox[{
-       RowBox[{"\[CapitalDelta]", "=", 
-        RowBox[{
-         RowBox[{"(", 
-          FractionBox["\[Pi]", "2.0"], ")"}], "/", "n"}]}], ";", 
-       "\[IndentingNewLine]", 
-       RowBox[{"integrand", "=", "0"}], ";", "\[IndentingNewLine]", 
-       RowBox[{"For", "[", 
-        RowBox[{
-         RowBox[{"\[Theta]", "=", "\[CapitalDelta]"}], ",", 
-         RowBox[{
-          RowBox[{"\[Theta]", "\[LessEqual]", " ", 
-           FractionBox["\[Pi]", "2"]}], "//", "N"}], ",", 
-         RowBox[{"\[Theta]", "=", 
-          RowBox[{"\[Theta]", "+", "\[CapitalDelta]"}]}], ",", 
-         "\[IndentingNewLine]", 
-         RowBox[{"For", "[", 
-          RowBox[{
-           RowBox[{"\[Phi]", "=", "\[CapitalDelta]"}], ",", 
-           RowBox[{
-            RowBox[{"\[Phi]", "<", 
-             FractionBox["\[Pi]", "2"]}], "//", "N"}], ",", 
-           RowBox[{"\[Phi]", "=", 
-            RowBox[{"\[Phi]", "+", "\[CapitalDelta]"}]}], ",", 
-           "\[IndentingNewLine]", 
-           RowBox[{"integrand", "=", 
-            RowBox[{"integrand", "+", 
-             FractionBox[
-              RowBox[{
-               SuperscriptBox[
-                RowBox[{"Sin", "[", 
-                 RowBox[{"\[Theta]", "+", 
-                  FractionBox["\[CapitalDelta]", "2"]}], "]"}], "3"], 
-               SuperscriptBox[
-                RowBox[{"Cos", "[", 
-                 RowBox[{"\[Phi]", "+", 
-                  FractionBox["\[CapitalDelta]", "2"]}], "]"}], "2"]}], 
-              RowBox[{
-               RowBox[{
-                RowBox[{"vg", "[", "k", "]"}], "n1D"}], "+", 
-               SuperscriptBox[
-                RowBox[{"\[Tau]ppModel", "[", 
-                 RowBox[{"k", ",", "T", ",", "C1", ",", "C2"}], "]"}], 
-                RowBox[{"-", "1"}]]}]]}]}]}], "]"}]}], "]"}], ";", 
-       "\[IndentingNewLine]", 
-       RowBox[{
-       "8", "*", "integrand", "*", "\[CapitalDelta]", "*", "\[CapitalDelta]", 
-        "*", 
-        RowBox[{"(", 
-         FractionBox["3", 
-          RowBox[{"4", "\[Pi]"}]], ")"}]}]}]}], "]"}]}]}]}]], "Input",
+   "\[IndentingNewLine]"}]}]], "Input",
  CellChangeTimes->{{3.706008612553637*^9, 3.7060086638208427`*^9}, {
    3.7060097638711367`*^9, 3.706009769719679*^9}, {3.7060119115953093`*^9, 
    3.706011924918679*^9}, {3.706012150218202*^9, 3.706012168724312*^9}, {
@@ -1814,8 +1729,8 @@ Cell[BoxData[
    3.735302025387019*^9}, {3.735307867554183*^9, 3.7353080043812304`*^9}, {
    3.735311844552391*^9, 3.735311859157153*^9}, {3.735410670294201*^9, 
    3.735410683532229*^9}, {3.73541078988717*^9, 3.7354108222551823`*^9}, {
-   3.735559757771133*^9, 
-   3.7355597615105658`*^9}},ExpressionUUID->"f4af4862-23a1-4169-b18e-\
+   3.735559757771133*^9, 3.7355597615105658`*^9}, {3.7355642067064953`*^9, 
+   3.7355642096116333`*^9}},ExpressionUUID->"f4af4862-23a1-4169-b18e-\
 6db176e086c5"]
 },
 WindowSize->{1101, 771},
@@ -1849,7 +1764,7 @@ Cell[753, 22, 1800, 32, 117, "Input", "ExpressionUUID" -> \
 "998ce12f-57f1-4250-b487-bbd42a3e1828"],
 Cell[2556, 56, 376, 7, 42, "Text", "ExpressionUUID" -> \
 "e449a1ae-bc6e-4949-ac09-ce244d517947"],
-Cell[2935, 65, 77560, 1753, 4672, "Input", "ExpressionUUID" -> \
+Cell[2935, 65, 74191, 1668, 4314, "Input", "ExpressionUUID" -> \
 "f4af4862-23a1-4169-b18e-6db176e086c5"]
 }
 ]

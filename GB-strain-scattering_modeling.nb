@@ -3,10 +3,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[         0,          0]
-NotebookDataLength[    371133,       7889]
-NotebookOptionsPosition[    369271,       7836]
-NotebookOutlinePosition[    369658,       7853]
-CellTagsIndexPosition[    369615,       7850]
+NotebookDataLength[    371145,       7889]
+NotebookOptionsPosition[    369283,       7836]
+NotebookOutlinePosition[    369670,       7853]
+CellTagsIndexPosition[    369627,       7850]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -869,7 +869,7 @@ P5cHspzS/yBATjKzNlFB/T+cjHHq0AIhQI7CdjOhKP0/H09REVAEIUBGT2GZ
 SRz9P6IRMTjPBSFA93sQRPIP/T8k1BBfTgchQDSHUzObA/0/p5bwhc0IIUBN
 z/lmRPf8P5Ywp1U=
             "]]}},
-         Annotation[#, "Charting`Private`Tag$22525#1"]& ], 
+         Annotation[#, "Charting`Private`Tag$3146#1"]& ], 
         TagBox[{
           {GrayLevel[0], AbsoluteThickness[1.6], Opacity[1.], 
            LineBox[CompressedData["
@@ -896,7 +896,7 @@ PxRF0nVT/iBAoEhE1TEY/T+XB7Kc0v8gQGy62uPlC/0/nIxx6tACIUBNUUy4
 TvP8Px9PURFQBCFAhzXOfQPn/D+iETE4zwUhQIg08H+42vw/JNQQX04HIUDE
 /IW+bc78P6eW8IXNCCFAaV1jOSPC/D/Cz6X9
             "]]}},
-         Annotation[#, "Charting`Private`Tag$22525#2"]& ], 
+         Annotation[#, "Charting`Private`Tag$3146#2"]& ], 
         TagBox[{
           {GrayLevel[0.5], AbsoluteThickness[1.6], Opacity[1.], 
            LineBox[CompressedData["
@@ -981,7 +981,7 @@ XHq3Y4kJLrHT4VXPOdTdaz5f2/gUIYru8zHsPodSsLJhWAsoQr38Tz232xwq
 i6G1pVVQERJkA+t2XudQSp10F0thRSicmjirHsahcpKmL7WIKEJW5KpddD8O
 9X8JeTax
             "]]}},
-         Annotation[#, "Charting`Private`Tag$22525#3"]& ], 
+         Annotation[#, "Charting`Private`Tag$3146#3"]& ], 
         TagBox[{
           {GrayLevel[0], AbsoluteThickness[1.6], Opacity[1.], 
            LineBox[CompressedData["
@@ -1067,7 +1067,7 @@ dytMMPufQGn4EIvKiDs70c4pDXt0nf1mXrMoKQsrwpJbGhYXGjoValhUNqGq
 2cYjDXszspSOlrIouS66kzmfNPCtHrt4I4dF5ab+jGrll4anUmmtb2+yqP8D
 K1NXHQ==
             "]]}},
-         Annotation[#, "Charting`Private`Tag$22525#4"]& ], 
+         Annotation[#, "Charting`Private`Tag$3146#4"]& ], 
         TagBox[{
           {GrayLevel[0], Thickness[0.003], Opacity[1.], 
            Dashing[{Small, Small}], LineBox[CompressedData["
@@ -1154,7 +1154,7 @@ bklY8MjB4YIWOaHK31QuobK1nVcO3PcI5qTc/U2t7ma6mNHkQLywTUAq7zdV
 mD4V1cYvB3IadMfcS7+p/wEBbWRV
             "]]}},
          Annotation[#, 
-          "Charting`Private`Tag$22525#5"]& ]}}, {}, {}}, {{{}, {{{}, {}, {
+          "Charting`Private`Tag$3146#5"]& ]}}, {}, {}}, {{{}, {{{}, {}, {
           {GrayLevel[0], PointSize[0.012833333333333334`], AbsoluteThickness[
            1.6], LineBox[{{2.6390573296152584`, 2.8903717578961645`}, {
             2.70805020110221, 3.0283575008700674`}, {2.772588722239781, 
@@ -2453,7 +2453,7 @@ c7PX9iBAo7/NxmeL/T+SgvJO1PwgQFNlTk8CWv0/FEXSdVP+IEBXVTygqU39
 P5cHspzS/yBATjKzNlFB/T+cjHHq0AIhQI7CdjOhKP0/H09REVAEIUBGT2GZ
 SRz9P6IRMTjPBSFA93sQRPIP/T8k1BBfTgchQDSHUzObA/0/p5bwhc0IIUBN
 z/lmRPf8P5Ywp1U=
-            "]]}, "Charting`Private`Tag$22525#1"], 
+            "]]}, "Charting`Private`Tag$3146#1"], 
          Annotation[{
            Directive[
             Opacity[1.], 
@@ -2483,7 +2483,7 @@ PxRF0nVT/iBAoEhE1TEY/T+XB7Kc0v8gQGy62uPlC/0/nIxx6tACIUBNUUy4
 TvP8Px9PURFQBCFAhzXOfQPn/D+iETE4zwUhQIg08H+42vw/JNQQX04HIUDE
 /IW+bc78P6eW8IXNCCFAaV1jOSPC/D/Cz6X9
             "]]}, 
-          "Charting`Private`Tag$22525#2"], 
+          "Charting`Private`Tag$3146#2"], 
          Annotation[{
            Directive[
             Opacity[1.], 
@@ -2570,7 +2570,7 @@ zz7+OM+EgwMtiieEuFR8+IxlJwc9T9dow1wXhyK2dfjZ/WWCeoF6fPdbDpUs
 XHq3Y4kJLrHT4VXPOdTdaz5f2/gUIYru8zHsPodSsLJhWAsoQr38Tz232xwq
 i6G1pVVQERJkA+t2XudQSp10F0thRSicmjirHsahcpKmL7WIKEJW5KpddD8O
 9X8JeTax
-            "]]}, "Charting`Private`Tag$22525#3"], 
+            "]]}, "Charting`Private`Tag$3146#3"], 
          Annotation[{
            Directive[
             Opacity[1.], 
@@ -2658,7 +2658,7 @@ WGCCd9LvWfVNbOpa+Kx5F5sJfJLPe9AfFsUwfOdrvcyEN85SxqbfWdQNvrKM
 dytMMPufQGn4EIvKiDs70c4pDXt0nf1mXrMoKQsrwpJbGhYXGjoValhUNqGq
 2cYjDXszspSOlrIouS66kzmfNPCtHrt4I4dF5ab+jGrll4anUmmtb2+yqP8D
 K1NXHQ==
-            "]]}, "Charting`Private`Tag$22525#4"], 
+            "]]}, "Charting`Private`Tag$3146#4"], 
          Annotation[{
            Directive[
             Opacity[1.], 
@@ -2748,7 +2748,7 @@ n9UfFjzPSDP4+vk3dZFWmtn1lwWfI/xl/IZ+U5kJvhMdXHIwISWREPn8NyVr
 bklY8MjB4YIWOaHK31QuobK1nVcO3PcI5qTc/U2t7ma6mNHkQLywTUAq7zdV
 mD4V1cYvB3IadMfcS7+p/wEBbWRV
             "]]}, 
-          "Charting`Private`Tag$22525#5"]}}, {}, {}}, {{{}, {{{}, {}, {
+          "Charting`Private`Tag$3146#5"]}}, {}, {}}, {{{}, {{{}, {}, {
            Hue[0.67, 0.6, 0.6], 
            Directive[
             PointSize[0.012833333333333334`], 
@@ -2865,9 +2865,9 @@ mD4V1cYvB3IadMfcS7+p/wEBbWRV
    3.735405000141081*^9, 3.735506385439073*^9, 3.735555017394072*^9, 
    3.735555088519829*^9, 3.735555151876712*^9, 3.735555213200355*^9, 
    3.7355553233178167`*^9, 3.7355553919576817`*^9, 3.7355555523742733`*^9, 
-   3.7355592761054688`*^9, 
-   3.735560414008646*^9},ExpressionUUID->"937daa4d-a051-40ba-8b28-\
-b05ecbf5e34c"]
+   3.7355592761054688`*^9, 3.735560414008646*^9, 
+   3.735564280752699*^9},ExpressionUUID->"6d422d40-cc7e-4f71-8644-\
+1648f63164e8"]
 }, Open  ]],
 
 Cell["Modeling polycrystalline AlN", "Text",
@@ -7835,7 +7835,7 @@ ec77db06a0c5"]
 }, Open  ]]
 },
 WindowSize->{963, 826},
-WindowMargins->{{194, Automatic}, {Automatic, 0}},
+WindowMargins->{{138, Automatic}, {Automatic, 0}},
 CellContext->"Global`",
 FrontEndVersion->"11.1 for Mac OS X x86 (32-bit, 64-bit Kernel) (March 16, \
 2017)",
@@ -7865,23 +7865,23 @@ Cell[13271, 279, 248, 4, 42, "Text", "ExpressionUUID" -> \
 Cell[CellGroupData[{
 Cell[13544, 287, 22387, 521, 1196, "Input", "ExpressionUUID" -> \
 "33c390a7-a5c0-4c4f-a1f0-dcaa84be992f"],
-Cell[35934, 810, 99348, 2059, 260, "Output", "ExpressionUUID" -> \
-"937daa4d-a051-40ba-8b28-b05ecbf5e34c"]
+Cell[35934, 810, 99360, 2059, 260, "Output", "ExpressionUUID" -> \
+"6d422d40-cc7e-4f71-8644-1648f63164e8"]
 }, Open  ]],
-Cell[135297, 2872, 227, 4, 42, "Text", "ExpressionUUID" -> \
+Cell[135309, 2872, 227, 4, 42, "Text", "ExpressionUUID" -> \
 "99764cb2-93a7-4631-98c0-a87406300967"],
 Cell[CellGroupData[{
-Cell[135549, 2880, 15392, 368, 1103, "Input", "ExpressionUUID" -> \
+Cell[135561, 2880, 15392, 368, 1103, "Input", "ExpressionUUID" -> \
 "5949e50b-c18c-429d-84b6-ef5703e604ff"],
-Cell[150944, 3250, 105067, 2187, 254, "Output", "ExpressionUUID" -> \
+Cell[150956, 3250, 105067, 2187, 254, "Output", "ExpressionUUID" -> \
 "53ed5164-8fec-4d5b-976b-6b3594f78951"]
 }, Open  ]],
-Cell[256026, 5440, 538, 15, 42, "Text", "ExpressionUUID" -> \
+Cell[256038, 5440, 538, 15, 42, "Text", "ExpressionUUID" -> \
 "e228c965-d660-4aa6-a690-c85cfeb00b85"],
 Cell[CellGroupData[{
-Cell[256589, 5459, 16156, 391, 1176, "Input", "ExpressionUUID" -> \
+Cell[256601, 5459, 16156, 391, 1176, "Input", "ExpressionUUID" -> \
 "233eeeb6-881d-40c9-9b01-0df7a22030c9"],
-Cell[272748, 5852, 96507, 1981, 251, "Output", "ExpressionUUID" -> \
+Cell[272760, 5852, 96507, 1981, 251, "Output", "ExpressionUUID" -> \
 "020669d5-c34d-4f7b-a9ef-ec77db06a0c5"]
 }, Open  ]]
 }
