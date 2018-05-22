@@ -8,11 +8,11 @@ Note, all variabls need to be defined globally which may interfere with other sc
 
 If you do not have Mathematica you can view the scripts in a readable format using the Free Wolfram Player (http://www.wolfram.com/cdf-player/), or simply opening the PDF file.
 
-### GB-strain-scattering_init.nb
-Defines constants, functions, and plot formatting. 
+### GB-strain-scattering_init.nb 
+Defines constants, functions, and plot formatting. Located in ‘core’.
 
 ### GB-strain-scattering.nb
-Computes the theoretical model for phonon scattering off of the strain field from a symmetric tilt grain boundary presented in Section 4. The full summation (Eq. B.13) is compared to the semi-emperical formula (Eq. 21). 
+Computes the theoretical model for phonon scattering off of the strain field from a symmetric tilt grain boundary presented in Section 4. The full summation (Eq. B.13) is compared to the semi-emperical formula (Eq. 21). Located in ‘core’.
 
 ### GB-strain-scattering_modeling.nb
-Performs the thermal transport modeling presented in Section 5. We follow the same procedure as that given by Wang et al. (2011), where Debye and Born-von Karman dispersion relations are applied to the Callaway model for phonon thermal conductivity. 
+Performs the thermal transport modeling presented in Section 5. We follow the same procedure as that given by Wang et al. (2011), where Debye and Born-von Karman dispersion relations are applied to the Callaway model for phonon thermal conductivity. Located in ‘core’.
